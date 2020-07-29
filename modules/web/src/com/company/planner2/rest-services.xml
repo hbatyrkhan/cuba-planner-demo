@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services xmlns="http://schemas.haulmont.com/cuba/7.0/rest-services-v2.xsd">
+    <service name="planner2_APIService">
+        <method name="sum" anonymousAllowed="true">
+            <param name="x" type="java.lang.Integer" />
+            <param name="y" type="java.lang.Integer" />
+        </method>
+        <method name="hello" anonymousAllowed="true" />
+        <method name="hello" anonymousAllowed="true">
+            <param name="name" type="java.lang.String" />
+        </method>
+    </service>
+</services>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<queries xmlns="schemas.haulmont.com/restapi/7.2/rest-queries.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="schemas.haulmont.com/restapi/7.2/rest-queries.xsd ">
+    <query name="allSessions" entity="planner2_Session" view="_local" >
+        <jpql><![CDATA[select c from planner2_Session c]]></jpql>
+    </query>
+</queries>

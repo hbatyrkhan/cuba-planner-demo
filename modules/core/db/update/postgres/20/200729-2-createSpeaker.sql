@@ -1,0 +1,1 @@
+create unique index IDX_PLANNER2_SPEAKER_UK_EMAIL on PLANNER2_SPEAKER (EMAIL) where DELETE_TS is null ;

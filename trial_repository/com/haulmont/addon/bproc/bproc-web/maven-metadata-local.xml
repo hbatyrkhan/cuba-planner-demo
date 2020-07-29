@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.haulmont.addon.bproc</groupId>
+  <artifactId>bproc-web</artifactId>
+  <versioning>
+    <release>1.1.1.trial</release>
+    <versions>
+      <version>0.1.alpha</version>
+      <version>1.0.0.ALPHA1</version>
+      <version>1.0.0.BETA1</version>
+      <version>1.0.0.BETA2</version>
+      <version>1.0.0.trial</version>
+      <version>1.0.1.trial</version>
+      <version>1.0.2.trial</version>
+      <version>1.1.0.trial</version>
+      <version>1.1.1.trial</version>
+    </versions>
+    <lastUpdated>20200726200254</lastUpdated>
+  </versioning>
+</metadata>
